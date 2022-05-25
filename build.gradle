@@ -29,6 +29,7 @@ dependencies {
     implementation rootProject.ext.dependencies.playservicesauth
 
     api rootProject.ext.dependencies.appcompat
+    api rootProject.ext.dependencies.facebooklogin
     api rootProject.ext.dependencies.rxjava
     api rootProject.ext.dependencies.rxandroid
 }
